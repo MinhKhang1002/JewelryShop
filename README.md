@@ -1,8 +1,9 @@
 # JewelryShop
-Trang web bán các loại trang sức
+Trang web bán trang sức
+
 Đồ án Web PTITHCM
-Huỳnh Minh Khang
-N18DCCN092
+
+Huỳnh Minh Khang - N18DCCN092
 
 
 
